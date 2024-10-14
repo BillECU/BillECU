@@ -9,6 +9,11 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khhuangbill@gmail.com)](mailto:khhuangbill@gmail.com)
 
   [<img src="https://github-readme-stats.vercel.app/api?username=billecu&show_icons=true&line_height=45&include_all_commits=true" />](https://github.com/Billecu)
+  <br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billecu&layout=compact)
+  <br/>
+
+  
   
  <div>
 
