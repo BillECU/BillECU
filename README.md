@@ -7,21 +7,17 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bill-khhuang)
   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/BillECU/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khhuangbill@gmail.com)](mailto:khhuangbill@gmail.com)
-
-  [<img src="https://github-readme-stats.vercel.app/api?username=billecu&show_icons=true&line_height=45&include_all_commits=true" />](https://github.com/Billecu)
-  <br/>
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billecu&layout=compact)
   <br/>
-
-  
-  
  <div>
 
 
 
 <!--
 **BillECU/BillECU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[<img src="https://github-readme-stats.vercel.app/api?username=billecu&show_icons=true&line_height=45&include_all_commits=true" />](https://github.com/Billecu)
+  <br/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
