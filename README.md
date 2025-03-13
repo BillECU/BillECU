@@ -4,6 +4,7 @@
 
   ### 📬 Find me at
   [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/Billecu/) 
+  [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=flat-square&logo=Google%20Cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/5bbb7cdb-8385-4ea4-8fae-2de694e6491e)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bill-khhuang)
   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/BillECU/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khhuangbill@gmail.com)](mailto:khhuangbill@gmail.com)
