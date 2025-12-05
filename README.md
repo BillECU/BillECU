@@ -9,7 +9,6 @@
   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/BillECU/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khhuangbill@gmail.com)](mailto:khhuangbill@gmail.com)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billecu&layout=compact)
   <br/>
  <div>
 
@@ -20,6 +19,7 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=billecu&show_icons=true&line_height=45&include_all_commits=true" />](https://github.com/Billecu)
   <br/>
 Here are some ideas to get you started:
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billecu&layout=compact)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
